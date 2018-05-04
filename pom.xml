@@ -92,7 +92,8 @@
         <project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-    </properties>
+        <organization.logo>https://raw.githubusercontent.com/opennars/opennars/0dcf3c7073873fb4b6e2081af758844b59197bc1/doc/opennars_logo_without_alpha.png</organization.logo> 
+   </properties>
 
     <dependencyManagement>
         <dependencies>
