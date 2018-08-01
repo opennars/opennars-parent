@@ -11,3 +11,8 @@ This is the root POM used for all OpenNARS projects. It sets some common depende
 [![Build Status](https://travis-ci.org/opennars/opennars-web.svg?branch=master)](https://travis-ci.org/opennars/opennars-web)
 [![codecov](https://codecov.io/gh/opennars/opennars-web/branch/master/graph/badge.svg)](https://codecov.io/gh/opennars/opennars-web)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/63898dd3a93b486d8a56aade86e1d42f)](https://www.codacy.com/app/freemo/opennars-web?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=opennars/opennars-web&amp;utm_campaign=Badge_Grade)
+
+* opennars/opennars-gui
+[![Build Status](https://travis-ci.org/opennars/opennars-gui.svg?branch=master)](https://travis-ci.org/opennars/opennars-gui)
+[![codecov](https://codecov.io/gh/opennars/opennars-gui/branch/master/graph/badge.svg)](https://codecov.io/gh/opennars/opennars-gui)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/276bbe273d164f21a61936fb1d79082a)](https://www.codacy.com/app/freemo/opennars-gui?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=opennars/opennars-gui&amp;utm_campaign=Badge_Grade)
